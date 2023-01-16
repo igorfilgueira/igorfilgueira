@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-<div>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorfilgueira&https://github.com/igorfilgguira/git&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfilgueira&langs_count=16&theme=tokyonight"/>
-  
-  
-</div>  
-
-
-
 
 
 <!--
