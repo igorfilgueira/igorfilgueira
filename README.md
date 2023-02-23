@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Igor!
 
 <div>
 <a href="https://github.com/igorfilgueira">
